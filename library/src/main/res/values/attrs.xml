@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WithSeekBar">
+        <attr name="progress" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="progress_color" format="color" />
+        <attr name="progress_background_color" format="color" />
+        <attr name="thumb_color" format="color" />
+        <attr name="thumb_size_ratio" format="float" />
+        <attr name="reverse_progress" format="boolean"/>
+    </declare-styleable>
+</resources>
